@@ -3,7 +3,7 @@ module github.com/GRTheory/cube
 go 1.20
 
 require (
-	github.com/docker/docker v24.0.5+incompatible
+	github.com/docker/docker v20.10.25+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/golang-collections/collections v0.0.0-20130729185459-604e922904d3
 	github.com/google/uuid v1.3.0
@@ -19,6 +19,7 @@ require (
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.0.2 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
+	github.com/sirupsen/logrus v1.9.0 // indirect
 	github.com/stretchr/testify v1.8.4 // indirect
 	golang.org/x/mod v0.8.0 // indirect
 	golang.org/x/net v0.14.0 // indirect
